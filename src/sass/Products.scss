@@ -1,7 +1,8 @@
 .products-container {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
-	width: 1600px;
-	margin: 0 auto;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   width: 150vh;
+   max-width: 100vw;
+   margin: 0 auto;
 }
